@@ -4,7 +4,7 @@ fashion E-commerce landing page Using:
 - CSS 
 - Vanilla JavaScript
 - [swiper.js](https://swiperjs.com/)
-- Google Maps
+- [Google Maps](https://www.google.com/maps)
 ## Links
 **The Demo: [Fashion E-commerce - JS](https://adam-books.github.io/fashion_e_commerce_js/)**
 
@@ -13,7 +13,7 @@ fashion E-commerce landing page Using:
 
 - Animated the Logo using JavaScript.
 - fixed some issues in the sliders using swiper.js
-- added new features in the reviwe slifers using swiper.js
+- added new features in the review sliders using swiper.js
 - added Google Maps & (our location) section
 
 #
