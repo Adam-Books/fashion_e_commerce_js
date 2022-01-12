@@ -4,7 +4,7 @@ const image1 = document.querySelectorAll(".small-image-1"),
   image2 = document.querySelectorAll(".small-image-2"),
   image3 = document.querySelectorAll(".small-image-3");
 
-let countDate = new Date("jan, 2022 00:00:00").getTime();
+let countDate = new Date("Apr, 2022 00:00:00").getTime();
 
 // Scroll
 
