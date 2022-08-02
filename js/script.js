@@ -79,7 +79,7 @@ image3.forEach((image) => {
 
 const countDown = () => {
   let now = new Date().getTime();
-  gap = countDate - now;
+  gap = Math.abs(countDate - now);
 
   let second = 1000;
   let minute = second * 60;
